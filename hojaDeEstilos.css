@@ -1,0 +1,29 @@
+		#parte1{ background: red;}
+		#parte2{background: darkgreen;}
+		#parte3{background: darkgrey;}
+		#parte4{background: darkblue;}
+		#parte5{background: white}
+		h1{color: white; text-align: center;}
+		#parte1 > p, button{ color:blueviolet; font-size: 14px; }
+		#par21 {color:steelblue; font-size: 15px }
+		#par22 {color: tan; font-size: 16px}
+		#par31{color: rosybrown; font-size :17px;}
+		#par32{color: plum; font-size: 18px;}
+		#par41{color: whitesmoke; font-size: 19px}
+		#osoPanda {
+			    width: 300px;
+   			    border: 3px;
+                padding: 10px;
+    			  }
+    	#imagenZorro {      
+    		     width: 300px;
+    			border: 3px;
+    			padding: 10px;
+    				 }
+
+    	#botonStart{
+    		display: block;
+    		margin-left: auto;
+    		margin-right: auto;
+    		width: 50%;
+    			   }
